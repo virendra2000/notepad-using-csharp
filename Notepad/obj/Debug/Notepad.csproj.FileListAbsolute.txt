@@ -1,0 +1,24 @@
+c:\users\vkalw\documents\visual studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\bin\Debug\Guna.UI2.dll
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.notepad.resources
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.splash.resources
+C:\Users\Vkalw\Documents\Visual Studio 2012\Projects\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+K:\My Drive\Notepad\Notepad\bin\Debug\Notepad.exe.config
+K:\My Drive\Notepad\Notepad\bin\Debug\Notepad.exe
+K:\My Drive\Notepad\Notepad\bin\Debug\Notepad.pdb
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.notepad.resources
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.splash.resources
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.csproj.CopyComplete
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.exe
+K:\My Drive\Notepad\Notepad\obj\Debug\Notepad.pdb
